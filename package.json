@@ -1,0 +1,25 @@
+{
+  "name": "poltronas",
+  "version": "1.0.0",
+  "description": "sistema para cadastro de poltronas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dragonester@bitbucket.org/dominioglobal/poltronas.git"
+  },
+  "author": "dominio global",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/dominioglobal/poltronas#readme",
+  "dependencies": {
+    "angular": "^1.7.2",
+    "bootstrap": "^4.1.1",
+    "ckeditor": "^4.11.1",
+    "datatables.net-bs4": "^1.10.19",
+    "jquery": "^3.3.1",
+    "owl.carousel": "^2.3.4",
+    "popper.js": "^1.12.3"
+  }
+}
